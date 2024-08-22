@@ -1,0 +1,26 @@
+img{
+    width: 50%;
+    margin: auto;
+    margin-top: 10rem;
+}
+
+body{
+    text-align: center;
+}
+
+input{
+    width: 65%;
+    padding: 3px;
+    border: solid 1px rgb(194, 189, 189);
+}
+
+div{
+    margin-top: 10px;
+}
+
+button{
+    border: none;
+    padding: 5px;
+    color: rgb(141, 134, 134);
+    border-radius: 2px;
+}
