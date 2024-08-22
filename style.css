@@ -1,5 +1,5 @@
 img{
-    width: 50%;
+    width: 30%;
     margin: auto;
     margin-top: 10rem;
 }
@@ -9,7 +9,7 @@ body{
 }
 
 input{
-    width: 65%;
+    width: 55%;
     padding: 3px;
     border: solid 1px rgb(194, 189, 189);
 }
@@ -20,7 +20,7 @@ div{
 
 button{
     border: none;
-    padding: 5px;
+    padding: 2px;
     color: rgb(141, 134, 134);
     border-radius: 2px;
 }
